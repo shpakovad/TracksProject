@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TracksProject/static/css/main.c1c73df8.chunk.css",
+    "main.js": "/TracksProject/static/js/main.b3b53484.chunk.js",
+    "main.js.map": "/TracksProject/static/js/main.b3b53484.chunk.js.map",
+    "runtime-main.js": "/TracksProject/static/js/runtime-main.27889b72.js",
+    "runtime-main.js.map": "/TracksProject/static/js/runtime-main.27889b72.js.map",
+    "static/js/2.274fd634.chunk.js": "/TracksProject/static/js/2.274fd634.chunk.js",
+    "static/js/2.274fd634.chunk.js.map": "/TracksProject/static/js/2.274fd634.chunk.js.map",
+    "index.html": "/TracksProject/index.html",
+    "precache-manifest.373e0341a325f770dd1fbb866268b4bb.js": "/TracksProject/precache-manifest.373e0341a325f770dd1fbb866268b4bb.js",
+    "service-worker.js": "/TracksProject/service-worker.js",
+    "static/css/main.c1c73df8.chunk.css.map": "/TracksProject/static/css/main.c1c73df8.chunk.css.map",
+    "static/js/2.274fd634.chunk.js.LICENSE.txt": "/TracksProject/static/js/2.274fd634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27889b72.js",
+    "static/js/2.274fd634.chunk.js",
+    "static/css/main.c1c73df8.chunk.css",
+    "static/js/main.b3b53484.chunk.js"
+  ]
+}
