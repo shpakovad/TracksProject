@@ -1,0 +1,9 @@
+[
+  {"id": "0", "singer": "Rihanna", "song": "Skin", "genre": "Pop", "year": "2010"},
+  {"id": "1", "singer": "Slipknot", "song": "Wait and bleed", "genre": "Heavy metal", "year": "1999"},
+  {"id": "2", "singer": "Eminem", "song": "My Name Is" , "genre": "Rap", "year": "1999"},
+  {"id": "3", "singer": "Eminem", "song": "Kamikaze", "genre": "Rap", "year": "2018"},
+  {"id": "4", "singer": "MaroonFive", "song": "V", "genre": "Pop rock", "year": "2014"},
+  {"id": "5", "singer": "ImagineDragons", "song": "Natural", "genre": "Pop rock", "year": "2018"},
+  {"id": "6", "singer": "Adele", "song": "Rolling in the Deep", "genre": "Pop", "year": "2011"}
+]

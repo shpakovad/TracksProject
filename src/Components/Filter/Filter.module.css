@@ -1,0 +1,16 @@
+.filtration {
+    position: absolute;
+    right: 20px;
+    top: 0px;
+}
+.filtration select {
+    width: 180px;
+    height: 25px;
+    border-radius: 2px;
+}
+.title{
+    color: gray;
+    font-size: 15px;
+    padding-bottom: 5px;
+    margin-top: 14px;
+}

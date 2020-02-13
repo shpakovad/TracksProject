@@ -1,0 +1,50 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 40px;
+    width: 77%;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 15px;
+    text-align: start;
+}
+.singers{
+    margin-right: 5px;
+    background: #d5d5d5;
+    height: 100%;
+    line-height: 35px;
+    width: 150px;
+}
+.singers span {
+    padding-left: 8px;
+}
+.songs{
+    width: 380px;
+    background: #d5d5d5;
+    height: 100%;
+    margin-right: 5px;
+    line-height: 35px;
+}
+.songs span {
+    padding-left: 8px;
+}
+.genres{
+    width: 210px;
+    background: #d5d5d5;
+    height: 100%;
+    margin-right: 5px;
+    line-height: 35px;
+}
+.genres span {
+    padding-left: 8px;
+}
+.years{
+    width: 160px;
+    background: #d5d5d5;
+    height: 100%;
+    line-height: 35px;
+}
+.years span {
+    padding-left: 8px;
+}

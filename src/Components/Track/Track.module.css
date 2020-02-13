@@ -1,0 +1,33 @@
+.trackBlock{
+    display: flex;
+    width: 929px;
+    margin-left: 15px;
+}
+.singerBlock{
+    width: 142px;
+    padding-left: 5px;
+    height: 35px;
+    margin-right: 10px;
+}
+
+.songBlock{
+    width: 370px;
+    height: 35px;
+    padding-left: 8px;
+    margin-right: 10px;
+}
+.genreBlock{
+    width: 200px;
+    height: 35px;
+    padding-left: 8px;
+    margin-right: 8px;
+
+}
+.yearBlock{
+    width: 150px;
+    height: 35px;
+    padding-left: 8px;
+}
+.trackBlock:nth-child(2n){
+    background:#d5d5d5 ;
+}
